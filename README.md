@@ -30,5 +30,5 @@ This project is licensed under the MIT License.
 
 ## Dataset 
 
-I have added the dataset here as well but the kaggle link for it is: https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset?select=rating.csv
+Kaggle link: https://www.kaggle.com/datasets/grouplens/movielens-20m-dataset?select=rating.csv
 
