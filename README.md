@@ -17,12 +17,12 @@ The code predicts user ratings for movies based on historical data. It includes 
 - Pandas
 - NumPy
 - SciPy
-- scikit-learn
+- sci-kit-learn
 
 ## Files
 
 - `collabcraft.ipynb`: Python script containing the implementations.
-- `README.md`: This file, providing basic information about the project.
+- `README.md`: This file provides basic information about the project.
 
 ## License
 
